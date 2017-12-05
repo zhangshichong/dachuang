@@ -1,0 +1,42 @@
+    1  apt-get install python-opencv
+   17  sudo apt-get install python-pip
+   51  apt-get install libopencv-*
+   52  apt-get install python-imaging
+   54  pip install --upgrade pip
+  104  pip install requests
+  200  pip install libmysqld-dev
+  201  apt-get install libmysqld-dev
+  204  pip install libmysqld-dev
+  205  apt-get install libmysqlclient-dev
+  238  pip install python-tk
+  239  pip install tkinter
+  240  pip install TKinter
+  241  pip install Tkinter
+  243  apt-get install python-tk
+  283  v4l2-ctl -V
+  284  apt install v4l-utils
+  285  v4l2-ctl -V
+  423  pip install VideoCapture
+  424  apt-get upgrade
+  425  pip install VideoCapture
+  427  pip install pygame
+  488  v4l2-ctl --list-formats
+  491  v4l2-ctl -V
+  492  v4l2-ctl --list-formats
+  493  v4l2-ctl --list-format-ext
+  494  v4l2-ctl --list-formats-ext
+  499  v4l2-ctl --list-format-ext
+  500  v4l2-ctl -V
+  532  history
+  533  v4l2-ctl --list-formats-ext
+  534  v4l2-ctl --list-formats
+  536  apt-get install libjpg8-dev libtiff4-dev libjasper-dev libpng12-dev
+  537  apt-get install libavcodec-dev
+  538  apt-get install libavformat-dev
+  539  apt-get install libv4l-dev
+  540  apt-get install libswscale-dev
+  541  apt-get install libgtk2.0-dev
+  543  apt-get install libtbb2
+  544  apt-get install python-dev
+  545  apt-get install libjasper-dev
+  546  v4l2-ctl --list-formats-ext
